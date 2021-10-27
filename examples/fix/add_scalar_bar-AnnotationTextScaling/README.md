@@ -53,7 +53,7 @@ p.show(screenshot='scalar-bars-6.png')
 ```
 
 ![picture 6 old](scalar-bars-6-old.png)
-**Picture 1: Original**
+**Picture 2: Original**
 
 ![picture 6 fixed](scalar-bars-6-fixed.png)
-**Picture 1: Fixed**
+**Picture 2: Fixed**
