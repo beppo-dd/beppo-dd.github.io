@@ -29,13 +29,10 @@ p.add_mesh(mesh, clim=[1000, 2000],
            scalar_bar_args=sargs)
 p.show(screenshot='scalar-bars-5.png')
 ```
-
 ![picture 5 old](scalar-bars-5-old.png)
 **Picture 1: Original**
-
 ![picture 5 fixed](scalar-bars-5-fixed.png)
 **Picture 1: Fixed**
-
 
 ```
 # Annotate values of interest using a dictionary. The key of the dictionary
@@ -51,9 +48,7 @@ p = pv.Plotter()
 p.add_mesh(mesh, scalars='Elevation', annotations=annotations, scalar_bar_args=sargs)
 p.show(screenshot='scalar-bars-6.png')
 ```
-
 ![picture 6 old](scalar-bars-6-old.png)
 **Picture 2: Original**
-
 ![picture 6 fixed](scalar-bars-6-fixed.png)
 **Picture 2: Fixed**
