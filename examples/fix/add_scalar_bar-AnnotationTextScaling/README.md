@@ -2,6 +2,8 @@
 
 **Fix**: Correct annotation text scaling setting, when fixed font size is given
 
+**Pull Request**: [#1750](https://github.com/pyvista/pyvista/pull/1750)
+
 ## Example script
 
 ```python
