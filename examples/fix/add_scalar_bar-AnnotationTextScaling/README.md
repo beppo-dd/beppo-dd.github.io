@@ -34,7 +34,7 @@ p.show(screenshot='scalar-bars-5.png')
 ![picture 5 fixed](scalar-bars-5-fixed.png)
 **Picture 1: Fixed**
 
-```
+```python
 # Annotate values of interest using a dictionary. The key of the dictionary
 # must be the value to annotate, and the value must be the string label.
 
