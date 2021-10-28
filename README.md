@@ -1,5 +1,5 @@
 # beppo-dd.github.io
-Examples for pyvista fixes
+Examples for [pyvista](https://github.com/pyvista/pyvista) fixes
 
-- [fix/add_scalar_bar-AnnotationTextScaling](examples/fix/add_scalar_bar-AnnotationTextScaling)
+- pyvista/pyvista#1750: [fix/add_scalar_bar-AnnotationTextScaling](examples/fix/add_scalar_bar-AnnotationTextScaling)
 
